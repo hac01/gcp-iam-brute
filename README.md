@@ -29,10 +29,10 @@ To use GCP IAM Brute, follow these steps:
    git clone https://github.com/hac01/gcp-iam-brute.git
 2. Install dependencies
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
 3. Run the tool
    ```bash
-   python gcp-iam-brute.py --access-token YOUR_GCP_API_ACCESS_TOKEN --project-id YOUR_GCP_PROJECT_ID --service-account-email YOUR_SERVICE_ACCOUNT_EMAIL
+   python3 main.py --access-token YOUR_GCP_API_ACCESS_TOKEN --project-id YOUR_GCP_PROJECT_ID --service-account-email YOUR_SERVICE_ACCOUNT_EMAIL
 
 # Disclaimer
 
