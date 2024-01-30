@@ -1,0 +1,11 @@
+{
+  "description": "Read-only access to alerting policies.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "monitoring.alertPolicies.get",
+    "monitoring.alertPolicies.list"
+  ],
+  "name": "roles/monitoring.alertPolicyViewer",
+  "stage": "GA",
+  "title": "Monitoring AlertPolicy Viewer"
+}

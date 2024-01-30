@@ -1,0 +1,19 @@
+{
+  "description": "Access to execute workflows and manage the executions using the API. Does not provide access to develop and debug workflows.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "workflows.callbacks.list",
+    "workflows.callbacks.send",
+    "workflows.executions.cancel",
+    "workflows.executions.create",
+    "workflows.executions.get",
+    "workflows.executions.list",
+    "workflows.stepEntries.get",
+    "workflows.stepEntries.list"
+  ],
+  "name": "roles/workflows.invoker",
+  "stage": "GA",
+  "title": "Workflows Invoker"
+}

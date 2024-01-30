@@ -1,0 +1,15 @@
+{
+  "description": "Grants access to view objects and their metadata, excluding ACLs. Can also list the objects in a bucket.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storage.managedFolders.get",
+    "storage.managedFolders.list",
+    "storage.objects.get",
+    "storage.objects.list"
+  ],
+  "name": "roles/storage.objectViewer",
+  "stage": "GA",
+  "title": "Storage Object Viewer"
+}

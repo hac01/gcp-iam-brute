@@ -1,0 +1,22 @@
+{
+  "description": "Grants access to update document resource in Content Warehouse",
+  "etag": "AA==",
+  "includedPermissions": [
+    "contentwarehouse.documentSchemas.get",
+    "contentwarehouse.documents.get",
+    "contentwarehouse.documents.getIamPolicy",
+    "contentwarehouse.documents.update",
+    "contentwarehouse.links.create",
+    "contentwarehouse.links.delete",
+    "contentwarehouse.links.get",
+    "contentwarehouse.links.update",
+    "contentwarehouse.locations.getStatus",
+    "contentwarehouse.rawDocuments.download",
+    "contentwarehouse.rawDocuments.upload",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/contentwarehouse.documentEditor",
+  "stage": "GA",
+  "title": "Content Warehouse Document Editor"
+}

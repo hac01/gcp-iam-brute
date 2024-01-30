@@ -1,0 +1,15 @@
+{
+  "description": "Grants read access to all Fleet Engine Delivery resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "fleetengine.deliveryvehicles.get",
+    "fleetengine.deliveryvehicles.list",
+    "fleetengine.tasks.get",
+    "fleetengine.tasks.list",
+    "fleetengine.tasks.searchWithTrackingId",
+    "fleetengine.tasktrackinginfo.get"
+  ],
+  "name": "roles/fleetengine.deliveryFleetReader",
+  "stage": "GA",
+  "title": "Fleet Engine Delivery Fleet Reader User"
+}

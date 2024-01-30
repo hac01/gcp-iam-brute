@@ -1,0 +1,20 @@
+{
+  "description": "Grants Storage Transfer Service Agent permissions required to run transfers",
+  "etag": "AA==",
+  "includedPermissions": [
+    "pubsub.subscriptions.consume",
+    "pubsub.subscriptions.create",
+    "pubsub.subscriptions.delete",
+    "pubsub.subscriptions.get",
+    "pubsub.subscriptions.update",
+    "pubsub.topics.attachSubscription",
+    "pubsub.topics.create",
+    "pubsub.topics.delete",
+    "pubsub.topics.get",
+    "pubsub.topics.publish",
+    "pubsub.topics.update"
+  ],
+  "name": "roles/storagetransfer.serviceAgent",
+  "stage": "GA",
+  "title": "Storage Transfer Service Agent"
+}

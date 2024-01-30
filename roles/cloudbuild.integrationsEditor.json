@@ -1,0 +1,14 @@
+{
+  "description": "Can update Integrations",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudbuild.integrations.get",
+    "cloudbuild.integrations.list",
+    "cloudbuild.integrations.update",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/cloudbuild.integrationsEditor",
+  "stage": "GA",
+  "title": "Cloud Build Integrations Editor"
+}

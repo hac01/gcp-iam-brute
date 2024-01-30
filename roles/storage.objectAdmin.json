@@ -1,0 +1,29 @@
+{
+  "description": "Grants full control over objects, including listing, creating, viewing, and deleting objects.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "orgpolicy.policy.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storage.managedFolders.create",
+    "storage.managedFolders.delete",
+    "storage.managedFolders.get",
+    "storage.managedFolders.list",
+    "storage.multipartUploads.abort",
+    "storage.multipartUploads.create",
+    "storage.multipartUploads.list",
+    "storage.multipartUploads.listParts",
+    "storage.objects.create",
+    "storage.objects.delete",
+    "storage.objects.get",
+    "storage.objects.getIamPolicy",
+    "storage.objects.list",
+    "storage.objects.overrideUnlockedRetention",
+    "storage.objects.setIamPolicy",
+    "storage.objects.setRetention",
+    "storage.objects.update"
+  ],
+  "name": "roles/storage.objectAdmin",
+  "stage": "GA",
+  "title": "Storage Object Admin"
+}

@@ -1,0 +1,22 @@
+{
+  "description": "Portal user of Translation Hub",
+  "etag": "AA==",
+  "includedPermissions": [
+    "automl.models.get",
+    "automl.models.list",
+    "automl.models.predict",
+    "cloudtranslate.customModels.get",
+    "cloudtranslate.customModels.list",
+    "cloudtranslate.customModels.predict",
+    "cloudtranslate.glossaries.get",
+    "cloudtranslate.glossaries.list",
+    "cloudtranslate.glossaries.predict",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "translationhub.portals.get",
+    "translationhub.portals.list"
+  ],
+  "name": "roles/translationhub.portalUser",
+  "stage": "BETA",
+  "title": "Translation Hub Portal User"
+}

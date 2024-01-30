@@ -1,0 +1,14 @@
+{
+  "description": "A user who can receive assistance from Cloud AI Companion",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudaicompanion.companions.generateChat",
+    "cloudaicompanion.companions.generateCode",
+    "cloudaicompanion.entitlements.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/cloudaicompanion.user",
+  "stage": "BETA",
+  "title": "Cloud AI Companion User"
+}

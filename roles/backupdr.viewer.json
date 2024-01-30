@@ -1,0 +1,26 @@
+{
+  "description": "Provides read-only access to all Backup and DR resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "backupdr.locations.get",
+    "backupdr.locations.list",
+    "backupdr.managementServers.access",
+    "backupdr.managementServers.backupAccess",
+    "backupdr.managementServers.get",
+    "backupdr.managementServers.getIamPolicy",
+    "backupdr.managementServers.list",
+    "backupdr.managementServers.viewBackupPlans",
+    "backupdr.managementServers.viewBackupServers",
+    "backupdr.managementServers.viewReports",
+    "backupdr.managementServers.viewStorage",
+    "backupdr.managementServers.viewSystem",
+    "backupdr.managementServers.viewWorkflows",
+    "backupdr.operations.get",
+    "backupdr.operations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/backupdr.viewer",
+  "stage": "GA",
+  "title": "Backup and DR Viewer"
+}

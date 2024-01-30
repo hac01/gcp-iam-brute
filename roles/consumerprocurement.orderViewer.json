@@ -1,0 +1,26 @@
+{
+  "description": "Allows inspecting purchases",
+  "etag": "AA==",
+  "includedPermissions": [
+    "billing.accounts.get",
+    "billing.accounts.getIamPolicy",
+    "billing.accounts.list",
+    "billing.credits.list",
+    "commerceoffercatalog.agreements.get",
+    "commerceoffercatalog.agreements.list",
+    "commerceoffercatalog.documents.get",
+    "commerceoffercatalog.documents.list",
+    "commerceoffercatalog.offers.get",
+    "consumerprocurement.accounts.get",
+    "consumerprocurement.accounts.list",
+    "consumerprocurement.consents.check",
+    "consumerprocurement.consents.list",
+    "consumerprocurement.orderAttributions.get",
+    "consumerprocurement.orderAttributions.list",
+    "consumerprocurement.orders.get",
+    "consumerprocurement.orders.list"
+  ],
+  "name": "roles/consumerprocurement.orderViewer",
+  "stage": "GA",
+  "title": "Consumer Procurement Order Viewer"
+}

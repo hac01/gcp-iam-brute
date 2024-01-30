@@ -1,0 +1,27 @@
+{
+  "description": "Manages BigQuery workloads, but is unable to create or modify slot commitments.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "bigquery.bireservations.get",
+    "bigquery.capacityCommitments.get",
+    "bigquery.capacityCommitments.list",
+    "bigquery.jobs.get",
+    "bigquery.jobs.list",
+    "bigquery.jobs.listAll",
+    "bigquery.jobs.listExecutionMetadata",
+    "bigquery.reservationAssignments.create",
+    "bigquery.reservationAssignments.delete",
+    "bigquery.reservationAssignments.list",
+    "bigquery.reservationAssignments.search",
+    "bigquery.reservations.create",
+    "bigquery.reservations.delete",
+    "bigquery.reservations.get",
+    "bigquery.reservations.list",
+    "bigquery.reservations.update",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/bigquery.resourceEditor",
+  "stage": "GA",
+  "title": "BigQuery Resource Editor"
+}

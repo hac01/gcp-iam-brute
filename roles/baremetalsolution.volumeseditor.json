@@ -1,0 +1,18 @@
+{
+  "description": "Editor of Bare Metal Solution volumes resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "baremetalsolution.operations.get",
+    "baremetalsolution.volumequotas.list",
+    "baremetalsolution.volumes.create",
+    "baremetalsolution.volumes.delete",
+    "baremetalsolution.volumes.get",
+    "baremetalsolution.volumes.list",
+    "baremetalsolution.volumes.rename",
+    "baremetalsolution.volumes.resize",
+    "baremetalsolution.volumes.update"
+  ],
+  "name": "roles/baremetalsolution.volumeseditor",
+  "stage": "GA",
+  "title": "Volumes Editor"
+}

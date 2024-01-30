@@ -1,0 +1,18 @@
+{
+  "description": "Gives BigQuery Data Transfer Service access to start bigquery jobs in consumer project. ",
+  "etag": "AA==",
+  "includedPermissions": [
+    "bigquery.config.get",
+    "bigquery.jobs.create",
+    "compute.networkAttachments.get",
+    "compute.networkAttachments.update",
+    "iam.serviceAccounts.getAccessToken",
+    "logging.logEntries.create",
+    "logging.logEntries.route",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/bigquerydatatransfer.serviceAgent",
+  "stage": "GA",
+  "title": "BigQuery Data Transfer Service Agent"
+}

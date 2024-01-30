@@ -1,0 +1,23 @@
+{
+  "description": "Perform transfers from an agent.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "monitoring.timeSeries.create",
+    "pubsub.subscriptions.consume",
+    "pubsub.subscriptions.create",
+    "pubsub.subscriptions.delete",
+    "pubsub.subscriptions.get",
+    "pubsub.topics.attachSubscription",
+    "pubsub.topics.create",
+    "pubsub.topics.get",
+    "pubsub.topics.list",
+    "pubsub.topics.publish",
+    "storagetransfer.agentpools.report",
+    "storagetransfer.operations.assign",
+    "storagetransfer.operations.get",
+    "storagetransfer.operations.report"
+  ],
+  "name": "roles/storagetransfer.transferAgent",
+  "stage": "GA",
+  "title": "Storage Transfer Agent"
+}

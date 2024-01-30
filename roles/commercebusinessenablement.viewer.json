@@ -1,0 +1,18 @@
+{
+  "description": "Viewer of Various Provider Configuration resource",
+  "etag": "AA==",
+  "includedPermissions": [
+    "commercebusinessenablement.leadgenConfig.get",
+    "commercebusinessenablement.partnerAccounts.get",
+    "commercebusinessenablement.partnerAccounts.list",
+    "commercebusinessenablement.partnerInfo.get",
+    "commercebusinessenablement.resellerConfig.get",
+    "commercebusinessenablement.resellerRestrictions.list",
+    "resourcemanager.organizations.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/commercebusinessenablement.viewer",
+  "stage": "BETA",
+  "title": "Commerce Business Enablement Configuration Viewer"
+}

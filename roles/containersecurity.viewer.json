@@ -1,0 +1,16 @@
+{
+  "description": "Readonly access to GKE Security Posture resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "containersecurity.clusterSummaries.list",
+    "containersecurity.findings.list",
+    "containersecurity.locations.get",
+    "containersecurity.locations.list",
+    "containersecurity.workloadConfigAudits.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/containersecurity.viewer",
+  "stage": "BETA",
+  "title": "GKE Security Posture Viewer"
+}

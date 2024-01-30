@@ -1,0 +1,18 @@
+{
+  "description": "Administrator of Bare Metal Solution volume resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "baremetalsolution.operations.get",
+    "baremetalsolution.volumes.create",
+    "baremetalsolution.volumes.delete",
+    "baremetalsolution.volumes.evict",
+    "baremetalsolution.volumes.get",
+    "baremetalsolution.volumes.list",
+    "baremetalsolution.volumes.rename",
+    "baremetalsolution.volumes.resize",
+    "baremetalsolution.volumes.update"
+  ],
+  "name": "roles/baremetalsolution.volumesadmin",
+  "stage": "GA",
+  "title": "Volume Admin"
+}

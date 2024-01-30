@@ -1,0 +1,12 @@
+{
+  "description": "Read-only access to Connect Gateway.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "gkehub.gateway.get",
+    "gkehub.memberships.get",
+    "serviceusage.services.get"
+  ],
+  "name": "roles/gkehub.gatewayReader",
+  "stage": "GA",
+  "title": "Connect Gateway Reader"
+}

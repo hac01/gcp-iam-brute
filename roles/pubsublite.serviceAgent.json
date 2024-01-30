@@ -1,0 +1,18 @@
+{
+  "description": "Grants Pub/Sub Lite Service Agent access to project resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "pubsub.topics.publish",
+    "pubsublite.subscriptions.get",
+    "pubsublite.subscriptions.getCursor",
+    "pubsublite.subscriptions.setCursor",
+    "pubsublite.subscriptions.subscribe",
+    "pubsublite.topics.computeHeadCursor",
+    "pubsublite.topics.getPartitions",
+    "pubsublite.topics.publish",
+    "pubsublite.topics.subscribe"
+  ],
+  "name": "roles/pubsublite.serviceAgent",
+  "stage": "GA",
+  "title": "Pub/Sub Lite Service Agent"
+}

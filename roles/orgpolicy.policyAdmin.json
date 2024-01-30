@@ -1,0 +1,25 @@
+{
+  "description": "The permission to set Organization Policies on resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "orgpolicy.constraints.list",
+    "orgpolicy.customConstraints.create",
+    "orgpolicy.customConstraints.delete",
+    "orgpolicy.customConstraints.get",
+    "orgpolicy.customConstraints.list",
+    "orgpolicy.customConstraints.update",
+    "orgpolicy.policies.create",
+    "orgpolicy.policies.delete",
+    "orgpolicy.policies.list",
+    "orgpolicy.policies.update",
+    "orgpolicy.policy.get",
+    "orgpolicy.policy.set",
+    "policysimulator.orgPolicyViolations.list",
+    "policysimulator.orgPolicyViolationsPreviews.create",
+    "policysimulator.orgPolicyViolationsPreviews.get",
+    "policysimulator.orgPolicyViolationsPreviews.list"
+  ],
+  "name": "roles/orgpolicy.policyAdmin",
+  "stage": "GA",
+  "title": "Organization Policy Administrator"
+}

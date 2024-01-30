@@ -1,0 +1,32 @@
+{
+  "description": "Grants permission to create, replace, and delete objects; list objects in a bucket; create, delete, and list tag bindings; read object metadata when listing (excluding IAM policies); and read and edit bucket metadata, including IAM policies.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "storage.buckets.createTagBinding",
+    "storage.buckets.deleteTagBinding",
+    "storage.buckets.enableObjectRetention",
+    "storage.buckets.get",
+    "storage.buckets.getIamPolicy",
+    "storage.buckets.listEffectiveTags",
+    "storage.buckets.listTagBindings",
+    "storage.buckets.setIamPolicy",
+    "storage.buckets.update",
+    "storage.managedFolders.create",
+    "storage.managedFolders.delete",
+    "storage.managedFolders.get",
+    "storage.managedFolders.getIamPolicy",
+    "storage.managedFolders.list",
+    "storage.managedFolders.setIamPolicy",
+    "storage.multipartUploads.abort",
+    "storage.multipartUploads.create",
+    "storage.multipartUploads.list",
+    "storage.multipartUploads.listParts",
+    "storage.objects.create",
+    "storage.objects.delete",
+    "storage.objects.list",
+    "storage.objects.setRetention"
+  ],
+  "name": "roles/storage.legacyBucketOwner",
+  "stage": "GA",
+  "title": "Storage Legacy Bucket Owner"
+}

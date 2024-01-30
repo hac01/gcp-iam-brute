@@ -1,0 +1,13 @@
+{
+  "description": "Grants read access to object metadata in inventory reports.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storage.buckets.get",
+    "storage.buckets.getObjectInsights"
+  ],
+  "name": "roles/storage.insightsCollectorService",
+  "stage": "GA",
+  "title": "Storage Insights Collector Service"
+}

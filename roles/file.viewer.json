@@ -1,0 +1,25 @@
+{
+  "description": "Read-only access to Filestore instances and related resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "file.backups.get",
+    "file.backups.list",
+    "file.backups.listEffectiveTags",
+    "file.backups.listTagBindings",
+    "file.instances.get",
+    "file.instances.list",
+    "file.instances.listEffectiveTags",
+    "file.instances.listTagBindings",
+    "file.locations.get",
+    "file.locations.list",
+    "file.operations.get",
+    "file.operations.list",
+    "file.snapshots.get",
+    "file.snapshots.list",
+    "file.snapshots.listEffectiveTags",
+    "file.snapshots.listTagBindings"
+  ],
+  "name": "roles/file.viewer",
+  "stage": "BETA",
+  "title": "Cloud Filestore Viewer"
+}

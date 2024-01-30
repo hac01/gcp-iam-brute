@@ -1,0 +1,29 @@
+{
+  "description": "Access to manage IAM policies and view organization policies for organizations, folders, and projects.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "essentialcontacts.contacts.create",
+    "essentialcontacts.contacts.delete",
+    "essentialcontacts.contacts.get",
+    "essentialcontacts.contacts.list",
+    "essentialcontacts.contacts.send",
+    "essentialcontacts.contacts.update",
+    "orgpolicy.constraints.list",
+    "orgpolicy.policies.list",
+    "orgpolicy.policy.get",
+    "resourcemanager.folders.get",
+    "resourcemanager.folders.getIamPolicy",
+    "resourcemanager.folders.list",
+    "resourcemanager.folders.setIamPolicy",
+    "resourcemanager.organizations.get",
+    "resourcemanager.organizations.getIamPolicy",
+    "resourcemanager.organizations.setIamPolicy",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.getIamPolicy",
+    "resourcemanager.projects.list",
+    "resourcemanager.projects.setIamPolicy"
+  ],
+  "name": "roles/resourcemanager.organizationAdmin",
+  "stage": "GA",
+  "title": "Organization Administrator"
+}

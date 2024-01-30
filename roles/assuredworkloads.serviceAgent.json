@@ -1,0 +1,14 @@
+{
+  "description": "Gives the Assured Workloads service account access to create KMS keyrings and keys, and to monitor Assured Workloads.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudkms.cryptoKeys.create",
+    "cloudkms.keyRings.create",
+    "serviceusage.services.enable",
+    "serviceusage.services.get",
+    "serviceusage.services.use"
+  ],
+  "name": "roles/assuredworkloads.serviceAgent",
+  "stage": "GA",
+  "title": "Assured Workloads Service Agent"
+}

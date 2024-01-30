@@ -1,0 +1,15 @@
+{
+  "description": "Viewer of Binary Authorization Policy",
+  "etag": "AA==",
+  "includedPermissions": [
+    "binaryauthorization.continuousValidationConfig.get",
+    "binaryauthorization.platformPolicies.get",
+    "binaryauthorization.platformPolicies.list",
+    "binaryauthorization.policy.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/binaryauthorization.policyViewer",
+  "stage": "GA",
+  "title": "Binary Authorization Policy Viewer"
+}

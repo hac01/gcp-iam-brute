@@ -1,0 +1,14 @@
+{
+  "description": "Gives the Artifact Registry service account access to managed resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "artifactregistry.repositories.downloadArtifacts",
+    "artifactregistry.repositories.get",
+    "artifactregistry.repositories.readViaVirtualRepository",
+    "artifactregistry.versions.delete",
+    "pubsub.topics.publish"
+  ],
+  "name": "roles/artifactregistry.serviceAgent",
+  "stage": "GA",
+  "title": "Artifact Registry Service Agent"
+}

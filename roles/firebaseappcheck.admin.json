@@ -1,0 +1,28 @@
+{
+  "description": "Full management of Firebase App Check.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "firebaseappcheck.appAttestConfig.get",
+    "firebaseappcheck.appAttestConfig.update",
+    "firebaseappcheck.appCheckTokens.verify",
+    "firebaseappcheck.debugTokens.get",
+    "firebaseappcheck.debugTokens.update",
+    "firebaseappcheck.deviceCheckConfig.get",
+    "firebaseappcheck.deviceCheckConfig.update",
+    "firebaseappcheck.playIntegrityConfig.get",
+    "firebaseappcheck.playIntegrityConfig.update",
+    "firebaseappcheck.recaptchaEnterpriseConfig.get",
+    "firebaseappcheck.recaptchaEnterpriseConfig.update",
+    "firebaseappcheck.recaptchaV3Config.get",
+    "firebaseappcheck.recaptchaV3Config.update",
+    "firebaseappcheck.resourcePolicies.get",
+    "firebaseappcheck.resourcePolicies.update",
+    "firebaseappcheck.safetyNetConfig.get",
+    "firebaseappcheck.safetyNetConfig.update",
+    "firebaseappcheck.services.get",
+    "firebaseappcheck.services.update"
+  ],
+  "name": "roles/firebaseappcheck.admin",
+  "stage": "GA",
+  "title": "Firebase App Check Admin"
+}

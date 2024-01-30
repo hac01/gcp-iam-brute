@@ -1,0 +1,33 @@
+{
+  "description": "Gives the Workload Certificate service agent access to Cloud Platform resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "container.clusterRoleBindings.get",
+    "container.clusterRoleBindings.list",
+    "container.clusters.get",
+    "container.clusters.update",
+    "container.customResourceDefinitions.create",
+    "container.customResourceDefinitions.get",
+    "container.customResourceDefinitions.list",
+    "container.operations.get",
+    "container.thirdPartyObjects.update",
+    "gkehub.features.get",
+    "gkehub.fleet.create",
+    "gkehub.fleet.get",
+    "gkehub.locations.get",
+    "gkehub.locations.list",
+    "gkehub.memberships.get",
+    "gkehub.memberships.list",
+    "gkehub.operations.get",
+    "serviceconsumermanagement.tenancyu.addResource",
+    "serviceconsumermanagement.tenancyu.create",
+    "serviceconsumermanagement.tenancyu.delete",
+    "serviceconsumermanagement.tenancyu.removeResource",
+    "serviceusage.services.use",
+    "workloadcertificate.workloadCertificateFeature.get",
+    "workloadcertificate.workloadRegistrations.list"
+  ],
+  "name": "roles/workloadcertificate.serviceAgent",
+  "stage": "GA",
+  "title": "Workload Certificate Service Agent"
+}

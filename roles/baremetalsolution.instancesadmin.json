@@ -1,0 +1,28 @@
+{
+  "description": "Admin of Bare Metal Solution Instance resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "baremetalsolution.instances.attachNetwork",
+    "baremetalsolution.instances.attachVolume",
+    "baremetalsolution.instances.create",
+    "baremetalsolution.instances.detachLun",
+    "baremetalsolution.instances.detachNetwork",
+    "baremetalsolution.instances.detachVolume",
+    "baremetalsolution.instances.disableInteractiveSerialConsole",
+    "baremetalsolution.instances.enableInteractiveSerialConsole",
+    "baremetalsolution.instances.get",
+    "baremetalsolution.instances.list",
+    "baremetalsolution.instances.rename",
+    "baremetalsolution.instances.reset",
+    "baremetalsolution.instances.start",
+    "baremetalsolution.instances.stop",
+    "baremetalsolution.instances.update",
+    "baremetalsolution.operations.get",
+    "baremetalsolution.osimages.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/baremetalsolution.instancesadmin",
+  "stage": "GA",
+  "title": "Bare Metal Solution Instances Admin"
+}

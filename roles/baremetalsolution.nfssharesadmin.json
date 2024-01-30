@@ -1,0 +1,16 @@
+{
+  "description": "Administrator of Bare Metal Solution NFS Share resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "baremetalsolution.nfsshares.create",
+    "baremetalsolution.nfsshares.delete",
+    "baremetalsolution.nfsshares.get",
+    "baremetalsolution.nfsshares.list",
+    "baremetalsolution.nfsshares.rename",
+    "baremetalsolution.nfsshares.update",
+    "baremetalsolution.operations.get"
+  ],
+  "name": "roles/baremetalsolution.nfssharesadmin",
+  "stage": "GA",
+  "title": "NFS Shares Admin"
+}

@@ -1,0 +1,15 @@
+{
+  "description": "Viewer of Bare Metal Solution Instance resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "baremetalsolution.instancequotas.list",
+    "baremetalsolution.instances.get",
+    "baremetalsolution.instances.list",
+    "baremetalsolution.operations.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/baremetalsolution.instancesviewer",
+  "stage": "GA",
+  "title": "Bare Metal Solution Instances Viewer"
+}

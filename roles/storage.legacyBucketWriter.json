@@ -1,0 +1,22 @@
+{
+  "description": "Grants permission to create, replace, and delete objects; list objects in a bucket; read object metadata when listing (excluding IAM policies); and read bucket metadata, excluding IAM policies.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "storage.buckets.get",
+    "storage.managedFolders.create",
+    "storage.managedFolders.delete",
+    "storage.managedFolders.get",
+    "storage.managedFolders.list",
+    "storage.multipartUploads.abort",
+    "storage.multipartUploads.create",
+    "storage.multipartUploads.list",
+    "storage.multipartUploads.listParts",
+    "storage.objects.create",
+    "storage.objects.delete",
+    "storage.objects.list",
+    "storage.objects.setRetention"
+  ],
+  "name": "roles/storage.legacyBucketWriter",
+  "stage": "GA",
+  "title": "Storage Legacy Bucket Writer"
+}

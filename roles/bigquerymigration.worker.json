@@ -1,0 +1,14 @@
+{
+  "description": "Worker that executes EDW migration subtasks.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "bigquerymigration.subtaskTypes.executeTask",
+    "bigquerymigration.subtasks.executeTask",
+    "storage.objects.create",
+    "storage.objects.get",
+    "storage.objects.list"
+  ],
+  "name": "roles/bigquerymigration.worker",
+  "stage": "GA",
+  "title": "Task Worker"
+}

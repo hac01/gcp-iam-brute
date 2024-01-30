@@ -1,0 +1,16 @@
+{
+  "description": "Grants runtime access to Workstation resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "workstations.operations.get",
+    "workstations.workstations.delete",
+    "workstations.workstations.get",
+    "workstations.workstations.start",
+    "workstations.workstations.stop",
+    "workstations.workstations.update",
+    "workstations.workstations.use"
+  ],
+  "name": "roles/workstations.user",
+  "stage": "GA",
+  "title": "Cloud Workstations User"
+}

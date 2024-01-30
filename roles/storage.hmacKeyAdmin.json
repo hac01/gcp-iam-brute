@@ -1,0 +1,18 @@
+{
+  "description": "Grants full control over HMAC keys in a project.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "firebase.projects.get",
+    "orgpolicy.policy.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storage.hmacKeys.create",
+    "storage.hmacKeys.delete",
+    "storage.hmacKeys.get",
+    "storage.hmacKeys.list",
+    "storage.hmacKeys.update"
+  ],
+  "name": "roles/storage.hmacKeyAdmin",
+  "stage": "GA",
+  "title": "Storage HMAC Key Admin"
+}

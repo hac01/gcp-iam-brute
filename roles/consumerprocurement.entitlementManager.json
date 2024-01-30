@@ -1,0 +1,26 @@
+{
+  "description": "Allows managing entitlements and enabling, disabling, and inspecting service states for a consumer project",
+  "etag": "AA==",
+  "includedPermissions": [
+    "consumerprocurement.consents.check",
+    "consumerprocurement.consents.grant",
+    "consumerprocurement.consents.list",
+    "consumerprocurement.consents.revoke",
+    "consumerprocurement.entitlements.get",
+    "consumerprocurement.entitlements.list",
+    "consumerprocurement.freeTrials.create",
+    "consumerprocurement.freeTrials.get",
+    "consumerprocurement.freeTrials.list",
+    "orgpolicy.policy.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "serviceusage.operations.get",
+    "serviceusage.services.disable",
+    "serviceusage.services.enable",
+    "serviceusage.services.get",
+    "serviceusage.services.list"
+  ],
+  "name": "roles/consumerprocurement.entitlementManager",
+  "stage": "GA",
+  "title": "Consumer Procurement Entitlement Manager"
+}

@@ -1,0 +1,13 @@
+{
+  "description": "Viewer of Payment Configuration resource",
+  "etag": "AA==",
+  "includedPermissions": [
+    "commercebusinessenablement.partnerInfo.get",
+    "commercebusinessenablement.paymentConfig.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/commercebusinessenablement.paymentConfigViewer",
+  "stage": "BETA",
+  "title": "Commerce Business Enablement PaymentConfig Viewer"
+}

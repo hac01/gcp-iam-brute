@@ -1,0 +1,19 @@
+{
+  "etag": "AA==",
+  "includedPermissions": [
+    "compute.acceleratorTypes.list",
+    "compute.futureReservations.create",
+    "compute.futureReservations.delete",
+    "compute.futureReservations.get",
+    "compute.futureReservations.list",
+    "compute.futureReservations.update",
+    "compute.instanceTemplates.list",
+    "compute.machineTypes.list",
+    "compute.regions.list",
+    "compute.reservations.create",
+    "compute.zones.list"
+  ],
+  "name": "roles/compute.futureReservationUser",
+  "stage": "BETA",
+  "title": "Compute Future Reservation User"
+}

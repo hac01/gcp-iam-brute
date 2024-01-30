@@ -1,0 +1,16 @@
+{
+  "description": "Edit access to Connect Gateway.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "gkehub.gateway.delete",
+    "gkehub.gateway.get",
+    "gkehub.gateway.patch",
+    "gkehub.gateway.post",
+    "gkehub.gateway.put",
+    "gkehub.memberships.get",
+    "serviceusage.services.get"
+  ],
+  "name": "roles/gkehub.gatewayEditor",
+  "stage": "GA",
+  "title": "Connect Gateway Editor"
+}

@@ -1,0 +1,32 @@
+{
+  "description": "Read-only access to Fleets and related resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "gkehub.features.get",
+    "gkehub.features.getIamPolicy",
+    "gkehub.features.list",
+    "gkehub.fleet.get",
+    "gkehub.fleet.getFreeTrial",
+    "gkehub.locations.get",
+    "gkehub.locations.list",
+    "gkehub.membershipbindings.get",
+    "gkehub.membershipbindings.list",
+    "gkehub.memberships.generateConnectManifest",
+    "gkehub.memberships.get",
+    "gkehub.memberships.getIamPolicy",
+    "gkehub.memberships.list",
+    "gkehub.namespaces.get",
+    "gkehub.namespaces.list",
+    "gkehub.operations.get",
+    "gkehub.operations.list",
+    "gkehub.rbacrolebindings.get",
+    "gkehub.rbacrolebindings.list",
+    "gkehub.scopes.get",
+    "gkehub.scopes.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/gkehub.viewer",
+  "stage": "GA",
+  "title": "Fleet Viewer (formerly GKE Hub Viewer)"
+}

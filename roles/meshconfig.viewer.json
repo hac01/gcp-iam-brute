@@ -1,0 +1,7 @@
+{
+  "description": "Read access to mesh configuration",
+  "etag": "AA==",
+  "name": "roles/meshconfig.viewer",
+  "stage": "BETA",
+  "title": "Mesh Config Viewer"
+}

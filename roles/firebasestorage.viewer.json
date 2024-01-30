@@ -1,0 +1,14 @@
+{
+  "description": "Read-only access for Cloud Storage for Firebase.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "firebasestorage.buckets.get",
+    "firebasestorage.buckets.list",
+    "firebasestorage.defaultBucket.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/firebasestorage.viewer",
+  "stage": "BETA",
+  "title": "Cloud Storage for Firebase Viewer"
+}

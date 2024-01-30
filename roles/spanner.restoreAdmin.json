@@ -1,0 +1,27 @@
+{
+  "description": "Administrator role to restore Cloud Spanner databases from Cloud Spanner backups.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "monitoring.timeSeries.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "spanner.backups.get",
+    "spanner.backups.list",
+    "spanner.backups.restoreDatabase",
+    "spanner.databaseOperations.cancel",
+    "spanner.databaseOperations.get",
+    "spanner.databaseOperations.list",
+    "spanner.databases.create",
+    "spanner.databases.get",
+    "spanner.databases.list",
+    "spanner.instances.createTagBinding",
+    "spanner.instances.deleteTagBinding",
+    "spanner.instances.get",
+    "spanner.instances.list",
+    "spanner.instances.listEffectiveTags",
+    "spanner.instances.listTagBindings"
+  ],
+  "name": "roles/spanner.restoreAdmin",
+  "stage": "GA",
+  "title": "Cloud Spanner Restore Admin"
+}

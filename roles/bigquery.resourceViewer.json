@@ -1,0 +1,22 @@
+{
+  "description": "Can view BigQuery workloads, but cannot create or modify slot reservations or commitments.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "bigquery.bireservations.get",
+    "bigquery.capacityCommitments.get",
+    "bigquery.capacityCommitments.list",
+    "bigquery.jobs.get",
+    "bigquery.jobs.list",
+    "bigquery.jobs.listAll",
+    "bigquery.jobs.listExecutionMetadata",
+    "bigquery.reservationAssignments.list",
+    "bigquery.reservationAssignments.search",
+    "bigquery.reservations.get",
+    "bigquery.reservations.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/bigquery.resourceViewer",
+  "stage": "GA",
+  "title": "BigQuery Resource Viewer"
+}

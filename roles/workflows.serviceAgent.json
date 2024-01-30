@@ -1,0 +1,13 @@
+{
+  "description": "Gives Cloud Workflows service account access to managed resources.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "iam.serviceAccounts.get",
+    "iam.serviceAccounts.getAccessToken",
+    "iam.serviceAccounts.getOpenIdToken",
+    "serviceusage.services.use"
+  ],
+  "name": "roles/workflows.serviceAgent",
+  "stage": "GA",
+  "title": "Cloud Workflows Service Agent"
+}

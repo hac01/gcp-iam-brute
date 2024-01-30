@@ -1,0 +1,20 @@
+{
+  "description": "Grants Cloud Monitoring and Cloud Alerting permission to access consumer resources and track usage.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudfunctions.functions.get",
+    "cloudtrace.traces.patch",
+    "monitoring.metricDescriptors.get",
+    "monitoring.metricDescriptors.list",
+    "monitoring.monitoredResourceDescriptors.get",
+    "monitoring.monitoredResourceDescriptors.list",
+    "monitoring.timeSeries.list",
+    "run.routes.invoke",
+    "servicedirectory.networks.access",
+    "servicedirectory.services.resolve",
+    "serviceusage.services.use"
+  ],
+  "name": "roles/monitoring.notificationServiceAgent",
+  "stage": "GA",
+  "title": "Monitoring Service Agent"
+}

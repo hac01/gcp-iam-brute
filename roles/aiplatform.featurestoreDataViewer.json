@@ -1,0 +1,28 @@
+{
+  "description": "This role provides permissions to read Feature data.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "aiplatform.entityTypes.exportFeatureValues",
+    "aiplatform.entityTypes.get",
+    "aiplatform.entityTypes.readFeatureValues",
+    "aiplatform.entityTypes.streamingReadFeatureValues",
+    "aiplatform.featureGroups.get",
+    "aiplatform.featureGroups.list",
+    "aiplatform.featureOnlineStores.get",
+    "aiplatform.featureOnlineStores.list",
+    "aiplatform.featureViewSyncs.get",
+    "aiplatform.featureViewSyncs.list",
+    "aiplatform.featureViews.fetchFeatureValues",
+    "aiplatform.featureViews.get",
+    "aiplatform.featureViews.list",
+    "aiplatform.featureViews.searchNearestEntities",
+    "aiplatform.features.get",
+    "aiplatform.features.list",
+    "aiplatform.featurestores.batchReadFeatureValues",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/aiplatform.featurestoreDataViewer",
+  "stage": "GA",
+  "title": "Vertex AI Feature Store Data Viewer"
+}

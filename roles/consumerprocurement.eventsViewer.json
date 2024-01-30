@@ -1,0 +1,11 @@
+{
+  "description": "Allows viewing key events for an offer",
+  "etag": "AA==",
+  "includedPermissions": [
+    "consumerprocurement.events.get",
+    "consumerprocurement.events.list"
+  ],
+  "name": "roles/consumerprocurement.eventsViewer",
+  "stage": "GA",
+  "title": "Consumer Procurement Events Viewer"
+}

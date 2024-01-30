@@ -1,0 +1,12 @@
+{
+  "description": "Can view the connection and access its read-only token.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudbuild.connections.get",
+    "cloudbuild.repositories.accessReadToken",
+    "cloudbuild.repositories.get"
+  ],
+  "name": "roles/cloudbuild.readTokenAccessor",
+  "stage": "GA",
+  "title": "Cloud Build Read Only Token Accessor"
+}

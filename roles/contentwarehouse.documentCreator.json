@@ -1,0 +1,15 @@
+{
+  "description": "Grants access to create document in Content Warehouse",
+  "etag": "AA==",
+  "includedPermissions": [
+    "contentwarehouse.documentSchemas.get",
+    "contentwarehouse.documentSchemas.list",
+    "contentwarehouse.documents.create",
+    "contentwarehouse.locations.getStatus",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/contentwarehouse.documentCreator",
+  "stage": "GA",
+  "title": "Content Warehouse document creator"
+}

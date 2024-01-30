@@ -1,0 +1,21 @@
+{
+  "description": "Admin of Various Provider Configuration resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "commercebusinessenablement.leadgenConfig.get",
+    "commercebusinessenablement.leadgenConfig.update",
+    "commercebusinessenablement.partnerAccounts.get",
+    "commercebusinessenablement.partnerAccounts.list",
+    "commercebusinessenablement.partnerInfo.get",
+    "commercebusinessenablement.resellerConfig.get",
+    "commercebusinessenablement.resellerConfig.update",
+    "commercebusinessenablement.resellerRestrictions.list",
+    "commercebusinessenablement.resellerRestrictions.update",
+    "resourcemanager.organizations.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/commercebusinessenablement.admin",
+  "stage": "BETA",
+  "title": "Commerce Business Enablement Configuration Admin"
+}

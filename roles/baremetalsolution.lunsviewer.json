@@ -1,0 +1,12 @@
+{
+  "description": "Viewer of Bare Metal Solution Lun resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "baremetalsolution.luns.get",
+    "baremetalsolution.luns.list",
+    "baremetalsolution.operations.get"
+  ],
+  "name": "roles/baremetalsolution.lunsviewer",
+  "stage": "GA",
+  "title": "Luns Viewer"
+}

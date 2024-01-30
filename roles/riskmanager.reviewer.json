@@ -1,0 +1,18 @@
+{
+  "description": "Access to review Risk Manager reports",
+  "etag": "AA==",
+  "includedPermissions": [
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "riskmanager.controlScoreBreakdowns.get",
+    "riskmanager.controlScoreBreakdowns.list",
+    "riskmanager.operations.get",
+    "riskmanager.operations.list",
+    "riskmanager.reports.get",
+    "riskmanager.reports.list",
+    "riskmanager.reports.review"
+  ],
+  "name": "roles/riskmanager.reviewer",
+  "stage": "BETA",
+  "title": "Risk Manager Report Reviewer"
+}

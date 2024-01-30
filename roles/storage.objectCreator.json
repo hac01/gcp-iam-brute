@@ -1,0 +1,17 @@
+{
+  "description": "Allows users to create objects. Does not give permission to view, delete, or replace objects.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "orgpolicy.policy.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "storage.managedFolders.create",
+    "storage.multipartUploads.abort",
+    "storage.multipartUploads.create",
+    "storage.multipartUploads.listParts",
+    "storage.objects.create"
+  ],
+  "name": "roles/storage.objectCreator",
+  "stage": "GA",
+  "title": "Storage Object Creator"
+}

@@ -1,0 +1,29 @@
+{
+  "description": "Gives Infrastructure Manager service agent access to managed resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "cloudbuild.builds.create",
+    "cloudbuild.builds.get",
+    "cloudbuild.builds.list",
+    "cloudbuild.builds.update",
+    "cloudbuild.workerpools.use",
+    "iam.serviceAccounts.actAs",
+    "iam.serviceAccounts.getAccessToken",
+    "logging.logEntries.create",
+    "logging.logEntries.route",
+    "serviceusage.services.use",
+    "storage.buckets.create",
+    "storage.buckets.delete",
+    "storage.buckets.get",
+    "storage.buckets.list",
+    "storage.buckets.update",
+    "storage.objects.create",
+    "storage.objects.delete",
+    "storage.objects.get",
+    "storage.objects.list",
+    "storage.objects.update"
+  ],
+  "name": "roles/cloudconfig.serviceAgent",
+  "stage": "GA",
+  "title": "Infrastructure Manager Service Agent"
+}

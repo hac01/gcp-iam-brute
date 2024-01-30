@@ -1,0 +1,13 @@
+{
+  "description": "Test access to Security Health Analytics Custom Modules",
+  "etag": "AA==",
+  "includedPermissions": [
+    "securitycenter.securityhealthanalyticscustommodules.simulate",
+    "securitycenter.securityhealthanalyticscustommodules.test",
+    "securitycentermanagement.securityHealthAnalyticsCustomModules.simulate",
+    "securitycentermanagement.securityHealthAnalyticsCustomModules.test"
+  ],
+  "name": "roles/securitycenter.securityHealthAnalyticsCustomModulesTester",
+  "stage": "GA",
+  "title": "Security Health Analytics Custom Modules Tester"
+}

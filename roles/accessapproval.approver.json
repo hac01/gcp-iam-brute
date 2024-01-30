@@ -1,0 +1,18 @@
+{
+  "description": "Ability to view or act on access approval requests and view configuration",
+  "etag": "AA==",
+  "includedPermissions": [
+    "accessapproval.requests.approve",
+    "accessapproval.requests.dismiss",
+    "accessapproval.requests.get",
+    "accessapproval.requests.invalidate",
+    "accessapproval.requests.list",
+    "accessapproval.serviceAccounts.get",
+    "accessapproval.settings.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/accessapproval.approver",
+  "stage": "GA",
+  "title": "Access Approval Approver"
+}

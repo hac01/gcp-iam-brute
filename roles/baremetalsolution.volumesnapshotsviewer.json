@@ -1,0 +1,12 @@
+{
+  "description": "Viewer of Bare Metal Solution snapshots resources",
+  "etag": "AA==",
+  "includedPermissions": [
+    "baremetalsolution.operations.get",
+    "baremetalsolution.volumesnapshots.get",
+    "baremetalsolution.volumesnapshots.list"
+  ],
+  "name": "roles/baremetalsolution.volumesnapshotsviewer",
+  "stage": "GA",
+  "title": "Snapshots Viewer"
+}

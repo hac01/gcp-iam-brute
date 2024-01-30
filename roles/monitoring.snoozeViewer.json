@@ -1,0 +1,10 @@
+{
+  "etag": "AA==",
+  "includedPermissions": [
+    "monitoring.snoozes.get",
+    "monitoring.snoozes.list"
+  ],
+  "name": "roles/monitoring.snoozeViewer",
+  "stage": "GA",
+  "title": "Monitoring Snooze Viewer"
+}

@@ -1,0 +1,15 @@
+{
+  "description": "Access only to private and shared code resources. The permissions in the Code Creator let you create and list code in Dataform, and access only the code that you created and code that was explicitly shared with you.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "dataform.locations.get",
+    "dataform.locations.list",
+    "dataform.repositories.create",
+    "dataform.repositories.list",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/dataform.codeCreator",
+  "stage": "BETA",
+  "title": "Code Creator"
+}

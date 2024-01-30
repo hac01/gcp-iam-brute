@@ -1,0 +1,14 @@
+{
+  "description": "Grants access to view the document schemas in Content Warehouse",
+  "etag": "AA==",
+  "includedPermissions": [
+    "contentwarehouse.documentSchemas.get",
+    "contentwarehouse.documentSchemas.list",
+    "contentwarehouse.locations.getStatus",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/contentwarehouse.documentSchemaViewer",
+  "stage": "GA",
+  "title": "Content Warehouse document schema viewer"
+}

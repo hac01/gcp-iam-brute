@@ -1,0 +1,32 @@
+{
+  "description": "Worker access to Dataflow.  Intended for service accounts.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "autoscaling.sites.readRecommendations",
+    "autoscaling.sites.writeMetrics",
+    "autoscaling.sites.writeState",
+    "compute.instanceGroupManagers.update",
+    "compute.instances.delete",
+    "compute.instances.setDiskAutoDelete",
+    "dataflow.jobs.get",
+    "dataflow.shuffle.read",
+    "dataflow.shuffle.write",
+    "dataflow.streamingWorkItems.ImportState",
+    "dataflow.streamingWorkItems.commitWork",
+    "dataflow.streamingWorkItems.getData",
+    "dataflow.streamingWorkItems.getWork",
+    "dataflow.streamingWorkItems.getWorkerMetadata",
+    "dataflow.workItems.lease",
+    "dataflow.workItems.sendMessage",
+    "dataflow.workItems.update",
+    "logging.logEntries.create",
+    "logging.logEntries.route",
+    "monitoring.timeSeries.create",
+    "storage.buckets.get",
+    "storage.objects.create",
+    "storage.objects.get"
+  ],
+  "name": "roles/dataflow.worker",
+  "stage": "GA",
+  "title": "Dataflow Worker"
+}

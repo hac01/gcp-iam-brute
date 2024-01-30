@@ -1,0 +1,19 @@
+{
+  "description": "Can browse Data Exchanges and subscribe to Listings",
+  "etag": "AA==",
+  "includedPermissions": [
+    "analyticshub.dataExchanges.get",
+    "analyticshub.dataExchanges.getIamPolicy",
+    "analyticshub.dataExchanges.list",
+    "analyticshub.dataExchanges.subscribe",
+    "analyticshub.listings.get",
+    "analyticshub.listings.getIamPolicy",
+    "analyticshub.listings.list",
+    "analyticshub.listings.subscribe",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list"
+  ],
+  "name": "roles/analyticshub.subscriber",
+  "stage": "GA",
+  "title": "Analytics Hub Subscriber"
+}

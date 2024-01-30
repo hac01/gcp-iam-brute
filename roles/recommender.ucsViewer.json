@@ -1,0 +1,18 @@
+{
+  "description": "Viewer of Spend Based Commitment Recommender.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "billing.accounts.get",
+    "billing.accounts.list",
+    "recommender.locations.get",
+    "recommender.locations.list",
+    "recommender.spendBasedCommitmentInsights.get",
+    "recommender.spendBasedCommitmentInsights.list",
+    "recommender.spendBasedCommitmentRecommendations.get",
+    "recommender.spendBasedCommitmentRecommendations.list",
+    "recommender.spendBasedCommitmentRecommenderConfig.get"
+  ],
+  "name": "roles/recommender.ucsViewer",
+  "stage": "BETA",
+  "title": "Spend Based Commitment Recommender Viewer"
+}

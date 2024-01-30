@@ -1,0 +1,32 @@
+{
+  "description": "The role used by Workload Manager application runners to read and update workloads.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "orgpolicy.policy.get",
+    "resourcemanager.projects.get",
+    "resourcemanager.projects.list",
+    "workloadmanager.actuations.create",
+    "workloadmanager.actuations.delete",
+    "workloadmanager.actuations.get",
+    "workloadmanager.actuations.list",
+    "workloadmanager.deployments.create",
+    "workloadmanager.deployments.delete",
+    "workloadmanager.deployments.get",
+    "workloadmanager.deployments.list",
+    "workloadmanager.evaluations.create",
+    "workloadmanager.evaluations.delete",
+    "workloadmanager.evaluations.get",
+    "workloadmanager.evaluations.list",
+    "workloadmanager.evaluations.run",
+    "workloadmanager.evaluations.update",
+    "workloadmanager.executions.delete",
+    "workloadmanager.executions.get",
+    "workloadmanager.executions.list",
+    "workloadmanager.insights.write",
+    "workloadmanager.results.list",
+    "workloadmanager.rules.list"
+  ],
+  "name": "roles/workloadmanager.worker",
+  "stage": "BETA",
+  "title": "Workload Manager Worker"
+}
