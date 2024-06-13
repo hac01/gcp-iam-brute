@@ -1,0 +1,12 @@
+{
+  "description": "Custom role with permissions to set IAM policy on compute disks and images.",
+  "etag": "AA==",
+  "includedPermissions": [
+    "compute.disks.setIamPolicy",
+    "compute.images.getIamPolicy",
+    "compute.images.setIamPolicy"
+  ],
+  "name": "roles/compute.imagePolicies",
+  "stage": "GA",
+  "title": "Compute Image Policies"
+}
